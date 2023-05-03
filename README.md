@@ -1,2 +1,3 @@
 # develop 
-## Version 1.0
+Updated readme for newer version
+## Version 1.1
