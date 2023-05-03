@@ -1,4 +1,5 @@
 # develop 
 Updated readme for newer version
 ffreerfe
-## Version 2.1
+ffrfr
+## Version 2.2
